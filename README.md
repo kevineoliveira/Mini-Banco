@@ -19,4 +19,5 @@ Funcionalidades
 
 ## Estrutura do Projeto
 
-MiniBanco/ ⊢ MiniBanco.java
+MiniBanco/MiniBanco 
+⊢ MiniBanco.java
